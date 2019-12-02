@@ -1,0 +1,25 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Om1704",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/om1704/pubg-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/om1704/pubg-bot/issues"
+  },
+  "homepage": "https://github.com/om1704/pubg-bot#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "libsodium-wrappers": "^0.7.6",
+    "node-gyp": "^6.0.1",
+    "rebuild": "^0.1.2"
+  }
+}
