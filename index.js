@@ -10,14 +10,7 @@ bot.once('ready', ()=>{
     console.log('THE BOT IS ONLINE!')
 });
 
-bot.on('message', message=>{
-    if(message.content === "hello"){
-        message.reply('Chaddi ghaal liyoch ki nai?')
-    }
-    else if(message.content == "@everyone"){
-        message.reply('Vaachan bath ranna')
-    }
-});
+
 
 
 
